@@ -1,3 +1,4 @@
+#!/bin/sh
 
 echo "all files"
 
