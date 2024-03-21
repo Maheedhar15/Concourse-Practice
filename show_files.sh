@@ -3,4 +3,4 @@
 echo "all files"
 
 
-ls new_files/*
+ls some-files/*
