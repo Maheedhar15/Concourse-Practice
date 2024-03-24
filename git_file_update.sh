@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 git clone https://github.com/Maheedhar15/Concourse-Practice.git edited-repo
 cd edited-repo
