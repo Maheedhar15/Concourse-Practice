@@ -13,4 +13,3 @@ git config --global user.email "maheedhareducation@gmail.com"
 git config --global user.name "Maheedhar15"
 git commit -am "Update edit_this_file.txt"
           # Push the changes back to the repository
-git push origin main  # or specify the branch you are working with
