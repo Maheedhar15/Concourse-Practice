@@ -5,7 +5,7 @@ cd edited-repo
 # Edit the file (for example, using sed)
 echo "Before Change"
 cat edit_this_file.txt
-sed -i 's/Chibaku/Amaterasu/g' edit_this_file.txt
+sed -i 's/Amaterasu/Almighty/g' edit_this_file.txt
 echo "After Change"
 cat edit_this_file.txt
 # Commit the changes
